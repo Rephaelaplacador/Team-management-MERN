@@ -1,4 +1,4 @@
-# 🌟 Advanced MERN B2B Teams Project Management SaaS - *TeamSync*  
+# 🌟 Advanced MERN B2B Teams Project Management SaaS  
 
 
 ## 📌 Project Overview  
